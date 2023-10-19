@@ -1,11 +1,22 @@
-title: Yosua Saputra # your name (or website title) here
+title: <p align="center"> Yosua Saputra </p> # your name (or website title) here
+
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
+
+description:
+  <p align="center">
+  <a href="file:///C:/Users/Yosua/Downloads/Resume/2023%20Saputra,Yosua_Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/yosua-saputra/">LinkedIn</a> |
+  <a href="https://github.com/ohayosua">GitHub</a>
+  </p>
+
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
