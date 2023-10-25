@@ -50,7 +50,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## $`\textcolor{blue}{\text{Time Series & Forecasting: Monthly Gas Production Analysis}}`$ 
+## $`\textcolor{blue}{\text{Time Series and Forecasting: Monthly Gas Production Analysis}}`$ 
 
 
 ### Tools used: RMarkdown, Statistics
