@@ -55,7 +55,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 The dataset comes from the R's Time Series Data Library series #129 set. The data contains monthly production of gas in Australia and dates back to around 50 years ago. In this project, I generated one year's worth of forecasting data and determined the accuracy using time series analysis.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/TIME-SERIES-ANALYSIS-GAS.pdf)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/TIME-SERIES-ANALYSIS-GAS.pdf)
 
 ---
 ## Data Science
