@@ -1,7 +1,7 @@
 # Portfolio
 ---
-## Web Scraping Yelp Data + Automating DataFrame
-<h1 style="color:purple;">Hello World</h1>
+## $`\textcolor{blue}{\text{Web Scraping Yelp Data + Automating DataFrame}}`$ 
+
 
 ### Tools used: Python, Jupyter NB, Google sheets
 
@@ -23,7 +23,8 @@ I have built a web scraper that takes the input of location and state from the u
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-## Exploratory Data Analysis
+## $`\textcolor{blue}{\text{Exploratory Data Analysis}}`$ 
+
 
 ### Tools used: Python, Jupyter NB, Google sheets
 
@@ -49,7 +50,8 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Time Series & Forecasting: Monthly Gas Production Analysis
+## $`\textcolor{blue}{\text{Time Series & Forecasting: Monthly Gas Production Analysis}}`$ 
+
 
 ### Tools used: RMarkdown, Statistics
 
