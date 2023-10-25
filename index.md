@@ -7,7 +7,8 @@
 
 I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-----Solutions/tree/master/assignments/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
 **Tableau Dashboard:** Tableau Public does not have the option to schedule an extract refresh. The interval for when the data is automatically refreshed in Tableau Public is about 24 hours according to this ([article](https://michelburnett27.medium.com/using-google-sheets-with-tableau-public-509b853b116#:~:text=The%20interval%20for%20when%20the,your%20saved%20Tableau%20Public%20page.)). 
 
