@@ -2,7 +2,7 @@
 ---
 <h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
-### Tools used: Python, Jupyter NB, Google sheets
+#### Tools used: Python, Jupyter NB, Google sheets
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -17,7 +17,7 @@ I have built a web scraper that takes the input of location and state from the u
 <h2 style="color:purple;">Exploratory Data Analysis</h2>
 
 
-### Tools used: Python, Jupyter NB, Google sheets
+#### Tools used: Python, Jupyter NB, Google sheets
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-----Solutions/tree/master/assignments/)
 
@@ -33,7 +33,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <h2 style="color:purple;">Time Series and Forecasting: Monthly Gas Production Analysis</h2>
 
 
-### Tools used: RMarkdown, Statistics
+#### Tools used: RMarkdown, Statistics
 
 [![View RMD](https://img.shields.io/badge/RMD-View_RMD-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/TIME%20SERIES%20ANALYSIS%20GAS.Rmd)
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/TIME-SERIES-ANALYSIS-GAS.pdf)
