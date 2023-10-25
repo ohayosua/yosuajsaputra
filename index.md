@@ -2,13 +2,12 @@
 ---
 <h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
-
 ### Tools used: Python, Jupyter NB, Google sheets
-
-I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+
+I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
 
 **Tableau Dashboard:** Tableau Public does not have the option to schedule an extract refresh. The interval for when the data is automatically refreshed in Tableau Public is about 24 hours according to this ([article](https://michelburnett27.medium.com/using-google-sheets-with-tableau-public-509b853b116#:~:text=The%20interval%20for%20when%20the,your%20saved%20Tableau%20Public%20page.)). 
 
@@ -20,9 +19,9 @@ I have built a web scraper that takes the input of location and state from the u
 
 ### Tools used: Python, Jupyter NB, Google sheets
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-----Solutions/tree/master/assignments/)
+
+My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
@@ -36,10 +35,10 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ### Tools used: RMarkdown, Statistics
 
-The dataset comes from the R's Time Series Data Library series #129 set. The data contains monthly production of gas in Australia and dates back to around 50 years ago. In this project, I generated one year's worth of forecasting data and determined the accuracy using time series analysis.
-
 [![View RMD](https://img.shields.io/badge/RMD-View_RMD-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/TIME%20SERIES%20ANALYSIS%20GAS.Rmd)
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/TIME-SERIES-ANALYSIS-GAS.pdf)
+
+The dataset comes from the R's Time Series Data Library series #129 set. The data contains monthly production of gas in Australia and dates back to around 50 years ago. In this project, I generated one year's worth of forecasting data and determined the accuracy using time series analysis.
 
 ---
 ## Data Science
