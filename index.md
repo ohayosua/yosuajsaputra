@@ -4,7 +4,7 @@
 
 #### Tools used: Python, Jupyter NB, Google sheets
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.ipynb)
 
 I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
