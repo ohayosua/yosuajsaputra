@@ -14,10 +14,10 @@ I have built a web scraper that takes the input of location and state from the u
 <center><img src="images/nlp.png"/></center>
 
 ---
-<h2 style="color:purple;">Exploratory Data Analysis</h2>
+<h2 style="color:purple;">Exploratory Data Analysis w/ E-commerce dataset</h2>
 
 
-#### Tools used: Python, Jupyter NB, Google sheets
+#### Tools used: SQL, Tableau
 
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/Brazil%20E-commerce%20project.pdf)
 
