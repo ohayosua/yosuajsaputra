@@ -20,7 +20,6 @@ I have built a web scraper that takes the input of location and state from the u
 #### Tools used: Python, Jupyter NB, Google sheets
 
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/Brazil%20E-commerce%20project.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-----Solutions/tree/master/assignments/)
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
