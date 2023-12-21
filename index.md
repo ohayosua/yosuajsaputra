@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.ipynb)
 
-MAL is currently one of the largest online database for anime and manga. It provides its users to organize and rate anime and manga to his or her liking. In this project, I performed exploratory data analysis with the datasets taken from MAL's api to gather insights and built a recommender system utilizing collaborative filtering and k-nearest neighbors. The goal is to improve MAL's current recommender system which is runs as a human recommender, soley dependent on its users. 
+MAL is currently one of the largest online database for anime and manga. It provides its users to organize and rate anime and manga to his or her liking. In this project, I performed exploratory data analysis with the datasets taken from MAL's api to gather insights and built a recommender system utilizing collaborative filtering and k-nearest neighbors. The goal is to improve MAL's current recommender system which runs as a human recommender, soley dependent on its users. 
 
 **Tableau Dashboard:** Tableau Public does not have the option to schedule an extract refresh. The interval for when the data is automatically refreshed in Tableau Public is about 24 hours according to this ([article](https://michelburnett27.medium.com/using-google-sheets-with-tableau-public-509b853b116#:~:text=The%20interval%20for%20when%20the,your%20saved%20Tableau%20Public%20page.)). 
 
