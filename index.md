@@ -4,8 +4,8 @@
 
 #### Tools used: Python, Jupyter NB
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.ipynb)
 
 I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
 
