@@ -1,5 +1,19 @@
 # Portfolio
 ---
+<h2 style="color:purple;">Exploratory Data Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
+
+#### Tools used: Python, Jupyter NB
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Yelp%20Web%20Scraping%20Project.ipynb)
+
+I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
+
+**Tableau Dashboard:** Tableau Public does not have the option to schedule an extract refresh. The interval for when the data is automatically refreshed in Tableau Public is about 24 hours according to this ([article](https://michelburnett27.medium.com/using-google-sheets-with-tableau-public-509b853b116#:~:text=The%20interval%20for%20when%20the,your%20saved%20Tableau%20Public%20page.)). 
+
+<center><img src="images/nlp.png"/></center>
+
+---
 <h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
 #### Tools used: Python, Jupyter NB, Google sheets
