@@ -1,5 +1,5 @@
 # Portfolio
----
+
 <h2 style="color:purple;">Anime Recommender System: Exploratory Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
 
 #### Tools used: Python, Jupyter NB
