@@ -35,13 +35,6 @@ I have built a web scraper that takes the input of location and state from the u
 
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/Brazil%20E-commerce%20project.pdf)
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
 
 ---
 <h2 style="color:purple;">Time Series and Forecasting: Monthly Gas Production Analysis</h2>
@@ -53,20 +46,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/TIME-SERIES-ANALYSIS-GAS.pdf)
 
 The dataset comes from the R's Time Series Data Library series #129 set. The data contains monthly production of gas in Australia and dates back to around 50 years ago. In this project, I generated one year's worth of forecasting data and determined the accuracy using time series analysis.
-
----
-## Data Science
-
-### Project 1
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
 
 ---
 ## About Me
