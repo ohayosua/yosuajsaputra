@@ -33,6 +33,7 @@ I have built a web scraper that takes the input of location and state from the u
 
 [![Open PDF](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](projects/Brazil%20E-commerce%20project.pdf)
 
+This dataset contains customer data of a large Brazillian department store. The project focuses on performing exploratory analysis to provide insights and discover patterns that aim to improve the e-commerce market moving forward. I analyzed user experience and marketing campaigns to help this business implement the right strategies and business decisions for success. 
 
 ---
 <h2 style="color:purple;">Time Series and Forecasting: Monthly Gas Production Analysis</h2>
