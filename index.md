@@ -9,8 +9,6 @@
 
 MAL is currently one of the largest online database for anime and manga. It provides its users to organize and rate anime and manga to his or her liking. In this project, I performed exploratory data analysis with the datasets taken from MAL's api to gather insights and built a recommender system utilizing collaborative filtering and k-nearest neighbors. The goal is to improve MAL's current recommender system which runs as a human recommender, soley dependent on its users. 
 
-<center><img src="images/nlp.png"/></center>
-
 ---
 <h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
