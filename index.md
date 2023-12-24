@@ -4,8 +4,8 @@
 
 #### Tools used: Python, Jupyter NB
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://htmlpreview.github.io/?https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender%20%26%20EDA.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Anime%20Recommender%20%26%20EDA.ipynb)
 
 MAL is currently one of the largest online database for anime and manga. It provides its users to organize and rate anime and manga to his or her liking. In this project, I performed exploratory data analysis with the datasets taken from MAL's api to gather insights and built a recommender system utilizing collaborative filtering and k-nearest neighbors. The goal is to improve MAL's current recommender system which runs as a human recommender, soley dependent on its users. 
 
