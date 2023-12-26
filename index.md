@@ -21,7 +21,7 @@ I have built a web scraper that takes the input of location and state from the u
 
 **Google Sheets:** Results of Yelp's data from the web scraper onto Gsheets. [Click here](https://docs.google.com/spreadsheets/d/1O3YkE1EWAmT4SsDnMcxX8Ft-p4RaTEqSEfVJbRUWcf0/edit?usp=sharing) to view sheet.
 
-<center><img src="Gsheets Yelp Data.png"/></center>
+<center><img src="images/Gsheets Yelp Data.png"/></center>
 
 ---
 <h2 style="color:purple;">Exploratory Data Analysis w/ E-commerce dataset</h2>
