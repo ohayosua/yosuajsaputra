@@ -19,9 +19,9 @@ MAL is currently one of the largest online database for anime and manga. It prov
 
 I have built a web scraper that takes the input of location and state from the user and retrieves yelp's top 50 businesses sorted by the order of most reviewed. The data is then converted into a pandas DataFrame and automated onto my google sheet as process is scheduled every hour. 
 
-**Tableau Dashboard:** Tableau Public does not have the option to schedule an extract refresh. The interval for when the data is automatically refreshed in Tableau Public is about 24 hours according to this ([article](https://michelburnett27.medium.com/using-google-sheets-with-tableau-public-509b853b116#:~:text=The%20interval%20for%20when%20the,your%20saved%20Tableau%20Public%20page.)). 
+**Google Sheets:** Results of Yelp's data from the web scraper onto Gsheets. [Click here](https://docs.google.com/spreadsheets/d/1O3YkE1EWAmT4SsDnMcxX8Ft-p4RaTEqSEfVJbRUWcf0/edit?usp=sharing) to view sheet.
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="Gsheets Yelp Data.png"/></center>
 
 ---
 <h2 style="color:purple;">Exploratory Data Analysis w/ E-commerce dataset</h2>
