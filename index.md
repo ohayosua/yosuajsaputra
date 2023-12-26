@@ -1,5 +1,7 @@
 # Portfolios
----
+
+<hr>
+
 <h2 style="color:purple;">Anime Recommender System: Exploratory Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
 
 #### Tools used: Python, Jupyter NB
@@ -9,7 +11,8 @@
 
 MAL is currently one of the largest online database for anime and manga. It provides its users to organize and rate anime and manga to his or her liking. In this project, I performed exploratory data analysis with the datasets taken from MAL's api to gather insights and built a recommender system utilizing collaborative filtering and k-nearest neighbors. The goal is to improve MAL's current recommender system which runs as a human recommender, soley dependent on its users. 
 
----
+<hr>
+
 <h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
 #### Tools used: Python, Jupyter NB, Google sheets
@@ -23,7 +26,8 @@ I have built a web scraper that takes the input of location and state from the u
 
 <center><img src="images/Gsheets Yelp Data.png"/></center>
 
----
+<hr>
+
 <h2 style="color:purple;">Exploratory Data Analysis w/ E-commerce dataset</h2>
 
 
