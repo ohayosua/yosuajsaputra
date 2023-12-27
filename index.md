@@ -13,7 +13,7 @@ MAL is currently one of the largest online database for anime and manga. It prov
 
 <hr>
 
-<h2 style="color:purple;">Web Scraping Yelp Data + Automating DataFrame</h2>
+<h2 style="color:SteelBlue;">Web Scraping Yelp Data + Automating DataFrame</h2>
 
 #### Tools used: Python, Jupyter NB, Google sheets
 
@@ -31,7 +31,7 @@ I have built a web scraper that takes the input of location and state from the u
 <hr>
 
 
-<h2 style="color:purple;">Exploratory Data Analysis w/ E-commerce dataset</h2>
+<h2 style="color:SteelBlue;">Exploratory Data Analysis w/ E-commerce dataset</h2>
 
 
 #### Tools used: SQL, Tableau
@@ -41,7 +41,7 @@ I have built a web scraper that takes the input of location and state from the u
 This dataset contains customer data of a large Brazillian department store. The project focuses on performing exploratory analysis to provide insights and discover patterns that aim to improve the e-commerce market moving forward. I analyzed user experience and marketing campaigns to help this business implement the right strategies and business decisions for success. 
 
 ---
-<h2 style="color:purple;">Time Series and Forecasting: Monthly Gas Production Analysis</h2>
+<h2 style="color:SteelBlue;">Time Series and Forecasting: Monthly Gas Production Analysis</h2>
 
 
 #### Tools used: RMarkdown, Statistics
