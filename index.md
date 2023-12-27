@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2 style="color:dark dark gray;">Anime Recommender System: Exploratory Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
+<h2 style="color:dark gray;">Anime Recommender System: Exploratory Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
 
 #### Tools used: Python, Jupyter NB
 
