@@ -54,8 +54,6 @@ The dataset comes from the R's Time Series Data Library series #129 set. The dat
 ---
 ## About Me
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
 <div style="text-align: justify">Besides Data Science and Analytics, I also have a great passion for sports, japanese pop & rock music, and traveling!  </div>
 <br>
 
