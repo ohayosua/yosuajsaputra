@@ -54,7 +54,7 @@ The dataset comes from the R's Time Series Data Library series #129 set. The dat
 ---
 ## About Me
 
-<div style="text-align: justify">Besides Data Science and Analytics, I also have a great passion for sports, japanese pop & rock music, and traveling!  </div>
+<div style="text-align: justify">Besides Data Science and Analytics, I also have a great passion for sports, japanese pop & rock music, fashion & sneakers, and traveling!  </div>
 <br>
 
 ---
