@@ -2,6 +2,16 @@
 
 <hr>
 
+<h2 style="color:SteelBlue;">Call Conversion Predictive Analysis</h2>
+
+<h4 style="color:SlateGray;">Tools used: Python, Jupyter NB</h4>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ohayosua/yosuajsaputra/blob/main/projects/Call%20Conversion%20Predictive%20Analysis.ipynb)
+
+In this project, I performed exploratory data analysis with the CSV files from the attached dataset provided with records of health calls from October 2023 to March 2024, and built a Random Forest model on the imbalanced data to predict the probability of conversion for each calls recorded. The goal is to estimate the likelihood of conversion for every call in the dataset, and to explain which types of calls are more likely to convert based on our analysis.
+
+<hr>
+
 <h2 style="color:SteelBlue;">Anime Recommender System: Exploratory Analysis & Collaborative Filtering Using k-Nearest Neighbors</h2>
 
 <h4 style="color:SlateGray;">Tools used: Python, Jupyter NB</h4>
